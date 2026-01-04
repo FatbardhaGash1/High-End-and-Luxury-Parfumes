@@ -485,6 +485,7 @@ display: none;
 .search_widget form button:hover{
    color:#e8accd;
 }
+.header_wishlist span.item_count{
    position: absolute;
    top:-6px;
    right:
